@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: affection83-hasura
+  data: null
+  kubeContext: affection83
+  name: affection83
